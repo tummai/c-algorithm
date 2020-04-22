@@ -6,6 +6,6 @@
 # insertion sort 
 # c 
 # DFS
-#MST_Prim 
-#Prim Alg for MST 
-#graph
+# MST_Prim 
+# Prim Alg for MST 
+# graph in c
